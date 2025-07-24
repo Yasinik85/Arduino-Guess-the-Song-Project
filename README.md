@@ -18,6 +18,7 @@ Katherine Zhou
 
 ## 📷 Diagram
 <img width="529" height="634" alt="Screenshot 2025-07-24 at 3 24 36 PM" src="https://github.com/user-attachments/assets/4bac3149-b65e-4221-9db4-b2f303c67363" />
+https://wokwi.com/projects/420515243703668737
 
 
 ## 📄 Code Structure
