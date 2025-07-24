@@ -1,7 +1,9 @@
 # 🎵 Arduino Music Guessing Game
-An Arduino-based game where players guess melodies using buttons and LEDs.
 
 An interactive Arduino project where two players compete to guess songs played through a buzzer. The first to press their button gets to answer!
+#Created by 
+Yaseman Nikoo
+Katherine Zhou
 
 ## 🔧 Features
 - Buzzer plays short song melodies (using tone & `pitches.h`)
