@@ -2,8 +2,8 @@
 
 An interactive Arduino project where two players compete to guess songs played through a buzzer. The first to press their button gets to answer!
 #Created by 
-Yaseman Nikoo
-Katherine Zhou
+Yaseman Nikoo - Code, building the circuit
+Katherine Zhou- Building the circuit, creating the melodies for the song
 
 ## 🔧 Features
 - Buzzer plays short song melodies (using tone & `pitches.h`)
